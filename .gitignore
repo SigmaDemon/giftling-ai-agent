@@ -1,0 +1,19 @@
+# Local secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Firebase private credentials
+firebase-service-account.json
