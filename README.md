@@ -1,8 +1,8 @@
-# 🎁 GiftGenie
+# 🎁 Giftling
 
-GiftGenie is an AI-powered gift-finding web app built with Python and Streamlit.
+Giftling is an AI-powered gift-finding web app built with Python and Streamlit.
 
-Users describe who they are buying for, their budget, the occasion, and the recipient’s interests. GiftGenie may ask one clarifying follow-up question, then returns 5–8 personalised gift ideas with a short explanation, estimated price, suggested place to buy, and a search link.
+Users describe who they are buying for, their budget, the occasion, and the recipient’s interests. Giftling may ask one clarifying follow-up question, then returns 5–8 personalised gift ideas with a short explanation, estimated price, suggested place to buy, and a search link.
 
 ## How it works
 
